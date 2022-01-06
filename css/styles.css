@@ -6,8 +6,7 @@
 
 body {
   font-size: 18px;
-  font-weight: 300;
-  font-family: rubik;
+  font-family: "Rubik", sans-serif;
   background-color: white;
 }
 
@@ -119,8 +118,14 @@ body {
 }
 
 .general__heading {
-  font-size: 25px;
+  font-size: 16px;
   padding-top: 15px;
+}
+
+.general__heading2 {
+  font-family: "Rubik-light", sans-serif;
+  font-size: 10px;
+  padding-top: 10px;
 }
 
 /*container 3*/
